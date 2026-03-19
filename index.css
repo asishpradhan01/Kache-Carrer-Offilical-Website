@@ -1018,7 +1018,7 @@
   }
 }
 
-@.obj-parent {
+.obj-parent {
   height: auto !important;
   overflow: hidden;
 }
