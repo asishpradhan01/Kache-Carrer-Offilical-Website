@@ -824,6 +824,46 @@
     max-width: 420px;
   }
 
+  .fifth-h {
+        padding-top: 3rem;
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+
+    .contact-info {
+        display: flex;
+    }
+
+    .contact {
+      width: 100%;
+    }
+
+    .contact-details {
+        padding: 0 1rem;
+    }
+
+    .text-area-1 {
+        width: 100%;
+        box-sizing: border-box;
+        font-size: 15px;
+    }
+
+    .name {
+      width: 100%;
+    } 
+
+    .bttn-onw {
+      width: 100%;
+    }
+
+    .fifth-container {
+        height: auto;
+        padding-top: 3rem;
+        padding-bottom: 5rem;
+    }
+
+}
+
   /* Footer */
   .footer-cont {
     flex-direction: column;
