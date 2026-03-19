@@ -336,6 +336,7 @@
 
 .fa-facebook {
   font-size: 3rem;
+  cursor: pointer;
   transition: 1s ease;
 }
 
@@ -344,6 +345,7 @@
 }
 
 .fa-instagram {
+  cursor: pointer;
   font-size: 3rem;
 }
 
